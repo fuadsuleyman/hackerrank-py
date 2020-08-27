@@ -1,3 +1,5 @@
+# Task Link https://www.hackerrank.com/challenges/simple-array-sum/problem
+
 ar_count = int(input("Please enter size of Array: "))
 numsStr = input("Please enter numbers of array by space between: ")
 
